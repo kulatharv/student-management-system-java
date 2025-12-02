@@ -19,7 +19,7 @@ A simple and clean console-based Student Management System built using Java OOP 
 
 # Program Flowchart
 
-<img width="1024" height="1536" alt="Student_Management" src="https://github.com/user-attachments/assets/916bbdf0-9545-4e83-bcd0-2dca58797bef" />
+<img width="1024" height="1000" alt="Student_Management" src="https://github.com/user-attachments/assets/916bbdf0-9545-4e83-bcd0-2dca58797bef" />
 
 
 # Future Enhancements
