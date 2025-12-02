@@ -31,6 +31,8 @@ A simple and clean console-based Student Management System built using Java OOP 
 
 # Screenshot
 
+<img width="1027" height="647" alt="image" src="https://github.com/user-attachments/assets/73b94db2-ecfc-4602-81b5-a81b9d850a7a" />
+
 
 # License
   - MIT License
