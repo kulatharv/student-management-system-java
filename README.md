@@ -30,7 +30,8 @@ A simple and clean console-based Student Management System built using Java OOP 
   - Build GUI (Swing/JavaFX)
 
 # Screenshot
-  <img width="755" height="855" alt="image" src="https://github.com/user-attachments/assets/f81efd25-5ab1-4d16-9b3b-519cf84f0505" />
+  <img width="1024" height="1536" alt="Student_Management" src="https://github.com/user-attachments/assets/0ac1628b-066f-4610-94ef-a5e8d895561f" />
+
 
 # License
   - MIT License
