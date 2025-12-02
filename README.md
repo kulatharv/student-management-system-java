@@ -19,7 +19,8 @@ A simple and clean console-based Student Management System built using Java OOP 
 
 # Program Flowchart
 
-    <img width="1024" height="1536" alt="ChatGPT Image Dec 2, 2025, 06_50_21 PM" src="https://github.com/user-attachments/assets/15e4321a-a877-4e2e-add7-494ad819baff" />
+    <img width="1024" height="1536" alt="Student_Management" src="https://github.com/user-attachments/assets/8c7aff29-d0e8-4346-838a-2778dd040a56" />
+
 
 
 # Future Enhancements
@@ -30,7 +31,6 @@ A simple and clean console-based Student Management System built using Java OOP 
   - Build GUI (Swing/JavaFX)
 
 # Screenshot
-  <img width="1024" height="1536" alt="Student_Management" src="https://github.com/user-attachments/assets/0ac1628b-066f-4610-94ef-a5e8d895561f" />
 
 
 # License
