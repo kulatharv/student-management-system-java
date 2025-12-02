@@ -17,6 +17,11 @@ A simple and clean console-based Student Management System built using Java OOP 
   - OOP (Classes, Objects, Encapsulation)
   - File Handling (CSV)
 
+# Program Flowchart
+
+    <img width="1024" height="1536" alt="ChatGPT Image Dec 2, 2025, 06_50_21 PM" src="https://github.com/user-attachments/assets/15e4321a-a877-4e2e-add7-494ad819baff" />
+
+
 # Future Enhancements
 
   - Replace CSV with MySQL (JDBC)
